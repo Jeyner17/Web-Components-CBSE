@@ -1,0 +1,17 @@
+ :host {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contador {
+    font-size: 20px;
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+    padding: 15px;
+    border: 2px solid #4CAF50;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+} 
+
